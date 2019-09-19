@@ -1,12 +1,12 @@
-Function
+## Function
 
 def f(n: Int) = {}
 
-For loop
+## For loop
 
 for ( i <- 1 to n) {}
 
-Scala _underscore
+## Scala _underscore
 
 1. Anonymous function
 
